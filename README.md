@@ -5,6 +5,7 @@
 ## 1. HTML, CSS
     - float, position
     - animations, transition
+    - ::before, ::after
     - grid
 
 > float 레이아웃 잡기.
